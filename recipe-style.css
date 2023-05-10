@@ -1,0 +1,29 @@
+h1 {
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    font-family: "Brush Script MT";
+    font-weight: lighter;
+    background-color: lightgreen;
+    width: fit-content;
+}
+
+div.ingredients {
+    width: 300px;
+    border: 5px solid green;
+    padding: 15px;
+    margin: 5px;
+    text-align: left;
+    border-style: dotted;
+}
+
+div.instructions {
+    width: 300px;
+    border: 5px solid green;
+    padding: 15px;
+    margin: 5px;
+    text-align: left;
+    border-style: double;
+}
